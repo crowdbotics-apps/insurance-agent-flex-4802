@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT insurance_agent_flex_4802.wsgi:application
